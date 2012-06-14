@@ -12,6 +12,7 @@ For example,
 
 * Path: 'extensions/multiplexed_data_source'
 * Requires: 'sproutcore/datastore'
+* Original Author: Tim Evans
 
 A multiplexed data source will forward data to a number of registered
 SC.DataSourceDelegates that accept the SC.Record type provided.
