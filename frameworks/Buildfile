@@ -1,3 +1,3 @@
 
 # Multiplexed Data Source
-config :multiplexed_data_source, :required => [:'sproutcore/datastore'], :test_required => [:'sproutcore/testing', :'sproutcore/datastore']
+config :multiplexed_data_source, :required => [:'sproutcore/datastore']
